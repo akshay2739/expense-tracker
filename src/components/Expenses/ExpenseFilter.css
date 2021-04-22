@@ -1,0 +1,17 @@
+.expense-filter {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.expense-filter h1 {
+	color: white;
+}
+
+.expense-filter select {
+	padding: 5px 15px;
+	font-size: 20px;
+	font-family: inherit;
+	font-weight: bold;
+	border-radius: 5px;
+}
